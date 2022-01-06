@@ -1,0 +1,10 @@
+C:\Users\world\source\repos\MouseDet\MouseDet\bin\Debug\MouseDet.exe.config
+C:\Users\world\source\repos\MouseDet\MouseDet\bin\Debug\MouseDet.exe
+C:\Users\world\source\repos\MouseDet\MouseDet\bin\Debug\MouseDet.pdb
+C:\Users\world\source\repos\MouseDet\MouseDet\obj\Debug\MouseDet.csproj.AssemblyReference.cache
+C:\Users\world\source\repos\MouseDet\MouseDet\obj\Debug\MouseDet.Form1.resources
+C:\Users\world\source\repos\MouseDet\MouseDet\obj\Debug\MouseDet.Properties.Resources.resources
+C:\Users\world\source\repos\MouseDet\MouseDet\obj\Debug\MouseDet.csproj.GenerateResource.cache
+C:\Users\world\source\repos\MouseDet\MouseDet\obj\Debug\MouseDet.csproj.CoreCompileInputs.cache
+C:\Users\world\source\repos\MouseDet\MouseDet\obj\Debug\MouseDet.exe
+C:\Users\world\source\repos\MouseDet\MouseDet\obj\Debug\MouseDet.pdb

@@ -1,0 +1,10 @@
+C:\Users\world\source\repos\PanelMove\PanelMove\bin\Debug\PanelMove.exe.config
+C:\Users\world\source\repos\PanelMove\PanelMove\bin\Debug\PanelMove.exe
+C:\Users\world\source\repos\PanelMove\PanelMove\bin\Debug\PanelMove.pdb
+C:\Users\world\source\repos\PanelMove\PanelMove\obj\Debug\PanelMove.csproj.AssemblyReference.cache
+C:\Users\world\source\repos\PanelMove\PanelMove\obj\Debug\PanelMove.Form1.resources
+C:\Users\world\source\repos\PanelMove\PanelMove\obj\Debug\PanelMove.Properties.Resources.resources
+C:\Users\world\source\repos\PanelMove\PanelMove\obj\Debug\PanelMove.csproj.GenerateResource.cache
+C:\Users\world\source\repos\PanelMove\PanelMove\obj\Debug\PanelMove.csproj.CoreCompileInputs.cache
+C:\Users\world\source\repos\PanelMove\PanelMove\obj\Debug\PanelMove.exe
+C:\Users\world\source\repos\PanelMove\PanelMove\obj\Debug\PanelMove.pdb

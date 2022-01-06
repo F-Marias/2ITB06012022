@@ -1,0 +1,10 @@
+C:\Users\world\source\repos\CharConverter\CharConverter\bin\Debug\CharConverter.exe.config
+C:\Users\world\source\repos\CharConverter\CharConverter\bin\Debug\CharConverter.exe
+C:\Users\world\source\repos\CharConverter\CharConverter\bin\Debug\CharConverter.pdb
+C:\Users\world\source\repos\CharConverter\CharConverter\obj\Debug\CharConverter.csproj.AssemblyReference.cache
+C:\Users\world\source\repos\CharConverter\CharConverter\obj\Debug\CharConverter.Form1.resources
+C:\Users\world\source\repos\CharConverter\CharConverter\obj\Debug\CharConverter.Properties.Resources.resources
+C:\Users\world\source\repos\CharConverter\CharConverter\obj\Debug\CharConverter.csproj.GenerateResource.cache
+C:\Users\world\source\repos\CharConverter\CharConverter\obj\Debug\CharConverter.csproj.CoreCompileInputs.cache
+C:\Users\world\source\repos\CharConverter\CharConverter\obj\Debug\CharConverter.exe
+C:\Users\world\source\repos\CharConverter\CharConverter\obj\Debug\CharConverter.pdb

@@ -1,0 +1,10 @@
+C:\Users\world\source\repos\ArrowColorChanger\ArrowColorChanger\bin\Debug\ArrowColorChanger.exe.config
+C:\Users\world\source\repos\ArrowColorChanger\ArrowColorChanger\bin\Debug\ArrowColorChanger.exe
+C:\Users\world\source\repos\ArrowColorChanger\ArrowColorChanger\bin\Debug\ArrowColorChanger.pdb
+C:\Users\world\source\repos\ArrowColorChanger\ArrowColorChanger\obj\Debug\ArrowColorChanger.csproj.AssemblyReference.cache
+C:\Users\world\source\repos\ArrowColorChanger\ArrowColorChanger\obj\Debug\ArrowColorChanger.Form1.resources
+C:\Users\world\source\repos\ArrowColorChanger\ArrowColorChanger\obj\Debug\ArrowColorChanger.Properties.Resources.resources
+C:\Users\world\source\repos\ArrowColorChanger\ArrowColorChanger\obj\Debug\ArrowColorChanger.csproj.GenerateResource.cache
+C:\Users\world\source\repos\ArrowColorChanger\ArrowColorChanger\obj\Debug\ArrowColorChanger.csproj.CoreCompileInputs.cache
+C:\Users\world\source\repos\ArrowColorChanger\ArrowColorChanger\obj\Debug\ArrowColorChanger.exe
+C:\Users\world\source\repos\ArrowColorChanger\ArrowColorChanger\obj\Debug\ArrowColorChanger.pdb
